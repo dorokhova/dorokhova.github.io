@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
 My name is Anna, I am a first-year student of two-years "Cognitive Studies" master's program. I have a strong interest in cognitive neuroscience and neuroimaging. My master’s thesis is "Characteristics of the neural network activity of the human brain associated with social intelligence: Resting state fMRI". 
 
