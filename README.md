@@ -1,4 +1,6 @@
-@@ -1 +1,37 @@
+---
+permalink: /readme.html
+---
 # dorokhova.github.io
 ## Welcome to GitHub Pages
 
